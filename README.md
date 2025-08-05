@@ -1,5 +1,5 @@
 # Retail Store Sample App - GitOps with Amazon EKS Auto Mode
- 
+in my personal repo 
 ![Banner](./docs/images/banner.png)
  
 <div align="center">
